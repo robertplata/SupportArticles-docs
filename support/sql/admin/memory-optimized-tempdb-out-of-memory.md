@@ -1,3 +1,4 @@
+![Memory Optimized tempdb left blade typo fix Screenshot 2022-06-15 131901](https://user-images.githubusercontent.com/50251326/173919635-054e45ad-24a5-4264-bbe9-8ed11584d52f.png)
 ---
 title: Memory-optimized tempdb metadata out of memory errors
 description: Provides resolutions to troubleshoot out of memory issues with memory-optimized tempdb metadata.
